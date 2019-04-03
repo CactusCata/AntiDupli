@@ -1,0 +1,8 @@
+main: fr.cactuscata.antidupli.AntiDupli
+version: 1.0.2
+author: CactusCata
+name: AntiDupli
+commands:
+    reboot:
+        description: Permet de prevenir un la dupli avant les reboots
+        permission: mq.antidupli
